@@ -1,6 +1,6 @@
 {
   "name": "cursor-back",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ensures that you get your cursor back when a program that hides it ends, no matter how.",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,8 @@
   "dependencies": {
     "ansi": "~0.2.1"
   },
-  "devDependencies": {
-  },
-  "keywords": [],
+  "devDependencies": {},
+  "keywords": [ "show", "cursor", "process", "exit", "terminal", "ansi" ],
   "author": {
     "name": "Thorsten Lorenz",
     "email": "thlorenz@gmx.de",
